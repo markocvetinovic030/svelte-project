@@ -1,5 +1,5 @@
 <div class=" text-center bg-gray-50 pb-20 ">
-	<h1 class="text-4xl font-bold text-orange-400 border-b-4 w-96 p-10 pt-20 mb-20 m-auto ">
+	<h1 class="text-4xl font-bold text-orange-500 border-b-4 w-96 p-10 pt-20 mb-20 m-auto ">
 		About Us
 	</h1>
 	<div class=" border-gray-200 border-8 w-8/12 m-auto p-20 ">

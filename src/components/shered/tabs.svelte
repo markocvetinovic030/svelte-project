@@ -5,7 +5,7 @@
 	export let activeItem;
 </script>
 
-<div class="bg-gray-100 border-b-2 shadow-sm text-center p-10">
+<div class="bg-gray-100 border-b-2  shadow-sm text-center p-10 sm:w-full">
 	<div class="w-5/12 m-auto">
 		<ul class="flex justify-between">
 			{#each items as item}
